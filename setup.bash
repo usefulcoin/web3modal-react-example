@@ -26,4 +26,4 @@ yarnversion=$(yarn --version) && echo [$0] verified the installation of yarn ver
 
 # step 4: install Web3Modal React Example.
 if $debug ; then sudo yarn install ; fi
-sudo yarn install > /dev/null 2>&1 && echo [$0] installed Express Generator.
+sudo yarn install > /dev/null 2>&1 && echo [$0] installed Web3Modal React Example.
